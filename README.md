@@ -16,7 +16,7 @@ Please do contact me with questions or use the GitHub features to contribute.
 
 ## Usage:
 ```python
-from cm5-calculator import calc_cm5
+from cm5calculator import calc_cm5
 from ase import io
 
 molecule = io.read('mol.xyz')
