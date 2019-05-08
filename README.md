@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/167319224.svg)](https://zenodo.org/badge/latestdoi/167319224)
+
 # CM5-calculator
 ## Description
 
